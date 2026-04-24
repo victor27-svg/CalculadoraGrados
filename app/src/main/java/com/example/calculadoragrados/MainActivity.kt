@@ -8,6 +8,9 @@ import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
 
 /** Victor Rivas 8-1017-778 */
+/** Fernando Rebolledo 8-1015-1326 */
+/** Ahmed Díaz 8-974-474 */
+
 class MainActivity : AppCompatActivity() {
     private lateinit var converter: TemperatureConverter
 
